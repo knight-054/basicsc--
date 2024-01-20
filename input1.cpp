@@ -10,6 +10,6 @@ int main(){
     int add = number1 + number2;
     int multiply = number1*number2;
     cout<<"The addition of these two numbers gives us "<<add<<endl;
-    cout<<"The product of these two number gives us 2"<<multiply;
+    cout<<"The product of these two number gives us "<<multiply<<endl;
 
 }
